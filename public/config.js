@@ -37,5 +37,5 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
-  "VITE_ANALYTICS_SCRIPT": "<!-- Privacy-friendly analytics by Plausible -->\r\n<script async src=\"https://plausible.io/js/pa-DpbOfzakIV3ip3Y2xAdcw.js\"></script>\r\n<script>\r\n  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};\r\n  plausible.init()\r\n</script>"
+  "VITE_ANALYTICS_SCRIPT": "%3C!--%20Google%20tag%20(gtag.js)%20--%3E%0A%3Cscript%20async%20src%3D%22https%3A%2F%2Fwww.googletagmanager.com%2Fgtag%2Fjs%3Fid%3DG-HQLT69X2SE%22%3E%3C%2Fscript%3E%0A%3Cscript%3E%0A%20%20window.dataLayer%20%3D%20window.dataLayer%20%7C%7C%20%5B%5D%3B%0A%20%20function%20gtag()%7BdataLayer.push(arguments)%3B%7D%0A%20%20gtag('js'%2C%20new%20Date())%3B%0A%0A%20%20gtag('config'%2C%20'G-HQLT69X2SE')%3B%0A%3C%2Fscript%3E"
 };
