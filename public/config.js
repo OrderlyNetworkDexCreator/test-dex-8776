@@ -37,5 +37,5 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
-  "VITE_ANALYTICS_SCRIPT": "%3C!--%20Google%20tag%20(gtag.js)%20--%3E%0A%3Cscript%20async%20src%3D%22https%3A%2F%2Fwww.googletagmanager.com%2Fgtag%2Fjs%3Fid%3DG-HQLT69X2SE%22%3E%3C%2Fscript%3E%0A%3Cscript%3E%0A%20%20window.dataLayer%20%3D%20window.dataLayer%20%7C%7C%20%5B%5D%3B%0A%20%20function%20gtag()%7BdataLayer.push(arguments)%3B%7D%0A%20%20gtag('js'%2C%20new%20Date())%3B%0A%0A%20%20gtag('config'%2C%20'G-HQLT69X2SE')%3B%0A%3C%2Fscript%3E"
+  "VITE_ANALYTICS_SCRIPT": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-HQLT69X2SE\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-HQLT69X2SE');\n</script>"
 };
