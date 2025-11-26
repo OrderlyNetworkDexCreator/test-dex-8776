@@ -20,7 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_SECONDARY_LOGO": "false",
   "VITE_ENABLED_MENUS": "Trading,Swap",
   "VITE_CUSTOM_MENUS": "",
-  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
+  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
@@ -38,5 +38,5 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
   "VITE_ANALYTICS_SCRIPT": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-HQLT69X2SE\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-HQLT69X2SE');\n</script>",
-  "VITE_SYMBOL_LIST": "PERP_BTC_USDC,PERP_SOL_USDC,PERP_ETH_USDC,PERP_NEAR_USDC"
+  "VITE_SYMBOL_LIST": ""
 };
